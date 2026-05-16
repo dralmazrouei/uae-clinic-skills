@@ -107,7 +107,9 @@ The SKILL.md file contains:
 ## Owner
 
 **Dr Ahmed Al Mazrouei** (@dralmazrouei)
-UAE-based healthcare entrepreneur & AI automation architect
+UAE Consultant Surgeon (Ret.) | Private Healthcare Entrepreneur & Developer
+
+Built by a surgeon who has operated in UAE healthcare — not a generic AI. These skills encode real DOH inspection prep, real DAMAN billing workflows, real compliance frameworks. That's why they work.
 
 ---
 
